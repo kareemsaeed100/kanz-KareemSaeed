@@ -1,0 +1,4 @@
+@KanzWay_HostAddress = http://localhost:5274
+
+GET {{KanzWay_HostAddress}}/api/v1/Screening/15
+Accept: application/json
